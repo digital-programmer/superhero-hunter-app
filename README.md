@@ -39,6 +39,6 @@ Clicking on trash button removes the character from favorites.
 - Response time can be improved
 - Since, asynchromous calls are made, the responses of successive requests are received in unordered manner.
 
-<sub><sup>
+
 Project Done under guidance of <a href="https://www.codingninjas.com/" target="_blank">Coding Ninjas</a>
-</sup></sub>
+
