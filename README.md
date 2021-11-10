@@ -7,7 +7,7 @@
 <hr>
 
 ### Youtube Video Link
-<a href="https://youtu.be/PM1YDiCKeKg"><img src="">Click to watch live demo</a>
+<a href="https://youtu.be/PM1YDiCKeKg"><img src="./resources/SUPERHERO.png">Click to watch live demo</a>
 
 ### Home Page - home.html
 
