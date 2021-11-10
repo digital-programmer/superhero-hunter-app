@@ -8,24 +8,25 @@
 
 ### Home Page - home.html
 
-Main page of the project to search superheroes. Press press 'Enter' key after typing hero name for better results.<br>
-Results will keep showing as you start typing.
-A character can be marked as favorite by clicking on heart button.
+- The main page of the project is to search for superheroes. 
+- Press press the 'Enter' key after typing the hero name for better results.
+- Results will keep showing as you start typing. 
+- A character can be marked as a favourite by clicking on the heart button.
 
 <img src="./resources/home-search.png" alt="Home Search page">
 
 <hr>
 
 ### Hero Detail Page - hero.html
-Show the details of a particular hero which include features like powerstats, biography, appearance and more.
+- Show the details of a particular hero which include features like power stats, biography, appearance and more.
 
 <img src="./resources/hero-detail.png" alt="Hero detail page">
 
 <hr>
 
 ### Favorite Page - favorites.html
-Show all the characterss marked as favourite.
-Clicking on trash button removes the character from favorites.
+- Show all the characters marked as a favourite. 
+- Clicking on the trash button removes the character from favourites.
 
 <img src="./resources/favorites.png" alt="Favorite page">
 
